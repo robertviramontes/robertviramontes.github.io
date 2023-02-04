@@ -23,6 +23,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <div class="icon-container">
+          <a href="https://www.linkedin.com/in/robert-viramontes"> <img src="assets/linkedin.png" alt="linkedin"></a>
+          <a href="https://orcid.org/0000-0003-3074-2438"> <img src="assets/orcid.png" alt="orcid"> </a>
+        </div>
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -30,10 +35,6 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        <div class="icon-container">
-          <a href="https://www.linkedin.com/in/robert-viramontes"> <img src="assets/linkedin.png" alt="linkedin"></a>
-          <a href="https://orcid.org/0000-0003-3074-2438"> <img src="assets/orcid.png" alt="orcid"> </a>
-        </div>
 
         {% if site.show_downloads %}
         <ul class="downloads">
