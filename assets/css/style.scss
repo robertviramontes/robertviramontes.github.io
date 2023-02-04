@@ -2,7 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-.icon-container{
+.icon-container {
   flex-direction: row;
   justify-content: space-evenly;
+  height: 2em;
+}
+
+.icon-container img {
+  height:100%;
 }
