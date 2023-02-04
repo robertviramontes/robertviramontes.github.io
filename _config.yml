@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Robert Viramontes
 description: PhD Student @ UW-Madison
+google_analytics: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
