@@ -23,7 +23,12 @@ Check back soon for more information about my current and past projects!
 
 - Fiber arts
   - I've recently picked up crocheting and knitting!
-  - 
+  - See some amigurumi creations Ive made with [Woobles](thewoobles.com) kits:
+
+| Fred  | Pierre |
+| ------------- | ------------- |
+| ![Fred Amigurumi Dinosaur](/assets/fred.png)  | ![Pierre Amigurumi Penguin](/assets/pierre.png)  |
+
 
 ### Contact Me
 {first initial}{last name}@wisc.edu
