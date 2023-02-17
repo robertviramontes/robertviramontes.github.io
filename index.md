@@ -6,6 +6,12 @@ Check back soon for more information about my current and past projects!
 
 ## Publications
 
+## Teaching
+- Teaching Assistant
+  - Spring 2023: ECE 556 -  Design Automation of Digital Systems
+  - Spring 2022: ECE 556 -  Design Automation of Digital Systems
+  - Fall 2021: ECE555 - Digital Circuits and Components
+
 ## Other Experience
 - [Advanced Micro Devices](https://www.amd.com/), Internship
   - Summer 2022
