@@ -23,7 +23,7 @@ Check back soon for more information about my current and past projects!
 
 - Fiber arts
   - I've recently picked up crocheting and knitting!
-  - See some amigurumi creations Ive made with [Woobles](thewoobles.com) kits:
+  - See some amigurumi creations I've made with [Woobles](thewoobles.com) kits:
 
 | Fred  | Pierre |
 | ------------- | ------------- |
