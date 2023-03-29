@@ -1,10 +1,9 @@
 Welcome to my page! I am a graduate student studying Computer Engineering at the University of Wisconsin - Madison. I am interested in Electronic Design Automation -- particularly optimizing the IC design flow through machine learning.
 
-Check back soon for more information about my current and past projects!
-
 ## News
 
 ## Publications
+- **Neural Network Partitioning for Fast Distributed Inference**. *Robert Viramontes and Azadeh Davoodi*. Appearing at the 24th ISQED in April 2023. [Abstract](https://www.isqed.org/English/Archives/2023/Technical_Sessions/149.html).
 
 ## Teaching
 - Teaching Assistant
