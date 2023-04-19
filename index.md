@@ -20,6 +20,7 @@ Welcome to my page! I am a graduate student studying Computer Engineering at the
   - 2017 - 2020
   - Full-stack web applications utilizing React and ASP.NET
   - C#/WPF application development
+  - PLC programming, including Siemens S7-1200/1500 series and Rockwell ControlLogix/CompactLogix.
 
 ## Hobbies
 - Running 👟
