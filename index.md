@@ -34,6 +34,8 @@ Welcome to my page! I am a graduate student studying Computer Engineering at the
 | Fred  | Pierre |
 | ------------- | ------------- |
 | ![Fred Amigurumi Dinosaur](/assets/fred.png)  | ![Pierre Amigurumi Penguin](/assets/pierre.png)  |
+  - Barry Badger, from this [awesome pattern](https://www.etsy.com/listing/1095055834/pdf-badger-crochet-pattern-cute-badger)!
+  - ![Barry Badger Crochet](/assets/barry.png)
 
 
 ### Contact Me
