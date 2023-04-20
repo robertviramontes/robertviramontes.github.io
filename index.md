@@ -29,11 +29,11 @@ Welcome to my page! I am a graduate student studying Computer Engineering at the
 
 - Fiber arts
   - I've recently picked up crocheting and knitting!
-  - See some amigurumi creations I've made with [Woobles](thewoobles.com) kits:
+  - See some amigurumi crochet creations I've made:
 
-| Fred  | Pierre |
-| ------------- | ------------- |
-| ![Fred Amigurumi Dinosaur](/assets/fred.png)  | ![Pierre Amigurumi Penguin](/assets/pierre.png)  |
+| Fred [(Woobles)](https://thewoobles.com/)  | Pierre [(Woobles)](https://thewoobles.com/) | Barry [(Pattern)](https://www.etsy.com/listing/1095055834/pdf-badger-crochet-pattern-cute-badger) |
+| ------------- | ------------- | ------------- |
+| <img src="/assets/fred.png" alt="crochet dinosaur" height="200">  | <img src="/assets/pierre.png" alt="crochet penguin" height="200"> | <img src="/assets/barry.png" alt="crochet badger" height="200"> |
 
 
 ### Contact Me
