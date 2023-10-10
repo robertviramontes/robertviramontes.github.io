@@ -30,7 +30,7 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
   - Constantly oscillating between training for a marathon and regretting running a marathon.
   - I enjoy running with Movin' Shoes Running Club in Madison!
 
-- Fiber arts
+- Fiber arts 🧶
   - I've recently picked up crocheting and knitting!
   - See some amigurumi crochet creations I've made:
 
