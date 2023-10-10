@@ -9,6 +9,7 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 
 ## Teaching
 - Teaching Assistant
+  - Fall 2023: ECE 756 - Computer-Aided Design for VLSI
   - Spring 2023: ECE 556 -  Design Automation of Digital Systems
   - Spring 2022: ECE 556 -  Design Automation of Digital Systems
   - Fall 2021: ECE555 - Digital Circuits and Components
