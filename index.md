@@ -38,6 +38,9 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 | ------------- | ------------- | ------------- |
 | <img src="/assets/fred.png" alt="crochet dinosaur" height="200">  | <img src="/assets/pierre.png" alt="crochet penguin" height="200"> | <img src="/assets/barry.png" alt="crochet badger" height="200"> |
 
+|Ghosts [(Pattern)](https://www.roseandlilyamigurumi.com/2022/10/no-sew-quick-crochet-ghost-free-crochet.html) |
+| ------------- |
+|<img src="/assets/ghosts.png" alt="two crochet ghosts" height="200">|
 
 ### Contact Me
 {first initial}{last name}@wisc.edu
