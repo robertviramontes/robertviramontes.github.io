@@ -8,6 +8,8 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 - **Neural Network Partitioning for Fast Distributed Inference**. *Robert Viramontes and Azadeh Davoodi*. Appearing at the 24th ISQED in April 2023. [Abstract](https://www.isqed.org/English/Archives/2023/Technical_Sessions/149.html). [DOI](https://doi.org/10.1109/ISQED57927.2023.10129343).
 
 ## Teaching
+- Instructor
+  - Spring 2024: ECE 252 - Introduction to Computer Engineering
 - Teaching Assistant
   - Fall 2023: ECE 756 - Computer-Aided Design for VLSI
   - Spring 2023: ECE 556 -  Design Automation of Digital Systems
