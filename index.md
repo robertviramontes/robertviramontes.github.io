@@ -4,6 +4,7 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 - May 13, 2024: Attended MLSys and presented a poster at the Young Professional Symposium on a hierarchical DNN pruning framework.
 - April 27, 2023: Passed my PhD preliminary exam!
 - April 6, 2023: Presented **Neural Network Partitioning for Fast Distributed Inference** at ISQED 2023!
+- July 12, 2022: Attended 59th DAC (Design Automation Conference) in San Francisco and presented Works-in-Progress poster for neural network partitioning. 
 
 ## Publications
 - **Neural Network Partitioning for Fast Distributed Inference**. *Robert Viramontes and Azadeh Davoodi*. Appearing at the 24th ISQED in April 2023. [Abstract](https://www.isqed.org/English/Archives/2023/Technical_Sessions/149.html). [DOI](https://doi.org/10.1109/ISQED57927.2023.10129343).
