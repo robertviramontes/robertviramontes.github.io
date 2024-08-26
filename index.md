@@ -1,6 +1,7 @@
 Hi! I am a graduate student studying Computer Engineering at the University of Wisconsin - Madison. I am currently investigating techniques to optimize neural network deployment, particularly for edge and other low power devices. I also enjoy studying Electronic Design Automation (EDA) -- particularly opportunities for integrating machine learning with the design flow.
 
 ## News
+- June 29, 2024: Attended 10th SMARTCOMP conference in Osaka, Japan to present **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**.
 - June 25, 2024: Attended DAC' 61 and presented a poster on my dissertation work at the PhD Forum. 
 - May 13, 2024: Attended MLSys and presented a poster at the Young Professional Symposium on a hierarchical DNN pruning framework.
 - April 27, 2023: Passed my PhD preliminary exam!
@@ -8,7 +9,7 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 - July 12, 2022: Attended 59th DAC (Design Automation Conference) in San Francisco and presented Works-in-Progress poster for neural network partitioning. 
 
 ## Publications
-- **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**. *Robert Viramontes and Azadeh Davoodi*. Appearing at SmartSys workshop co-located with SmartComp in Osaka, Japan July 2024.
+- **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**. *Robert Viramontes and Azadeh Davoodi*. Presented at 10th IEEE International Conference on Smart Computing (SMARTCOMP)in Osaka, Japan July 2024.[DOI](https://doi.org/10.1109/SMARTCOMP61445.2024.00081)
 - **Neural Network Partitioning for Fast Distributed Inference**. *Robert Viramontes and Azadeh Davoodi*. Presented at the 24th ISQED in April 2023. [Abstract](https://www.isqed.org/English/Archives/2023/Technical_Sessions/149.html). [DOI](https://doi.org/10.1109/ISQED57927.2023.10129343).
 
 ## Teaching
@@ -21,6 +22,10 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
   - Fall 2021: ECE555 - Digital Circuits and Components
 
 ## Other Experience
+- [Tenstorrent](https://tenstorrent.com/), Internship
+  - Fall 2024
+  - Working on machine learning for EDA / physical design
+
 - [Advanced Micro Devices](https://www.amd.com/), Internship
   - Summer 2022
   - Interned with Package CAD team to enhance workflows and mine manufacturing data
