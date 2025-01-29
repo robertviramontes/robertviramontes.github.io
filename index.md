@@ -1,7 +1,7 @@
 Hi! I am a graduate student studying Computer Engineering at the University of Wisconsin - Madison. I am currently investigating techniques to optimize neural network deployment, particularly for edge and other low power devices. I also enjoy studying Electronic Design Automation (EDA) -- particularly opportunities for integrating machine learning with the design flow.
 
 ## News
-- December 13, 2024: Finished a Machine Learning for Physical Design intersip at [Tenstorrent[(https://tenstorrent.com/en). Had a great time working with forward-looking team on physical design challenges!
+- December 13, 2024: Finished a Machine Learning for Physical Design intersip at [Tenstorrent](https://tenstorrent.com/en). Had a great time working with forward-looking team on physical design challenges!
 - June 29, 2024: Attended 10th SMARTCOMP conference in Osaka, Japan to present **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**.
 - June 25, 2024: Attended DAC' 61 and presented a poster on my dissertation work at the PhD Forum. 
 - May 13, 2024: Attended MLSys and presented a poster at the Young Professional Symposium on a hierarchical DNN pruning framework.
