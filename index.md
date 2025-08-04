@@ -1,6 +1,9 @@
 Hi! I am a graduate student studying Computer Engineering at the University of Wisconsin - Madison. I am currently investigating techniques to optimize neural network deployment, particularly for edge and other low power devices. I also enjoy studying Electronic Design Automation (EDA) -- particularly opportunities for integrating machine learning with the design flow.
 
 ## News
+- June 2025: Started full-time as a Senior Engineer of Physical Design at [Tenstorrent](https://tenstorrent.com/en), working on ML applications in EDA.
+- June 16, 2025: Attended 11th SMARTCOMP conference in Cork, Ireland to present **FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference**.
+- May 7, 2025: Successfully defended my PhD thesis, "Distributing Deep Neural Network Inference Across Edge-Hub-Cloud Systems". 
 - December 13, 2024: Finished a Machine Learning for Physical Design intersip at [Tenstorrent](https://tenstorrent.com/en). Had a great time working with forward-looking team on physical design challenges!
 - June 29, 2024: Attended 10th SMARTCOMP conference in Osaka, Japan to present **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**.
 - June 25, 2024: Attended DAC' 61 and presented a poster on my dissertation work at the PhD Forum. 
@@ -10,6 +13,7 @@ Hi! I am a graduate student studying Computer Engineering at the University of W
 - July 12, 2022: Attended 59th DAC (Design Automation Conference) in San Francisco and presented Works-in-Progress poster for neural network partitioning. 
 
 ## Publications
+- **FreDDI: Frequency-Driven DNN Partitioning in Distributed Inference**. *Robert Viramontes and Azadeh Davoodi. Presented at 11th IEEE International Conference on Smart Computing (SMARTCOMP) in Cork, Ireland June 2025. [DOI](https://doi.org/10.1109/SMARTCOMP65954.2025.00106).
 - **DIME: Distributed Inference Model Estimation for Minimizing Profiled Latency**. *Robert Viramontes and Azadeh Davoodi*. Presented at 10th IEEE International Conference on Smart Computing (SMARTCOMP)in Osaka, Japan July 2024.[DOI](https://doi.org/10.1109/SMARTCOMP61445.2024.00081)
 - **Neural Network Partitioning for Fast Distributed Inference**. *Robert Viramontes and Azadeh Davoodi*. Presented at the 24th ISQED in April 2023. [Abstract](https://www.isqed.org/English/Archives/2023/Technical_Sessions/149.html). [DOI](https://doi.org/10.1109/ISQED57927.2023.10129343).
 
